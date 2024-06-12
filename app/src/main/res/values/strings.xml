@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="oyun_aciklamasi"><b><i>İKİ OYUNCU tavla oynarken, artık skor bir problem olmaktan çıkacaktır. Bu uygulama skoru <u>güvenli</u> bir şekilde saklamaktadır.</i></b></string>
+    <string name="oyuncu_bir">oyuncu 1</string>
+    <string name="oyuncu_iki">oyuncu 2</string>
+    <string name="oyun_basla">Yeni oyuna başla</string>
+    <string name="oyun_tekrar_basla">Tekrar başla</string>
+    <string name="uyari_mesaj">Lütfen adınızı giriniz</string>
+    <string name="tebrik_mesaj">bu oyunun galibidir</string>
+
+</resources>
